@@ -1,3 +1,4 @@
+TODO Integrate youtube-dl.
 rechat-dl is a simple command-line tool to download the Chat Replay messages and metadata of Twitch VODs for archival purposes.
 
 # Installation
